@@ -1,6 +1,7 @@
 # dragscript
 Currently in pre-release and testing phase! Use at your own risk.  
 A human like auto/drag click script for Minecraft.  
+AHK is bannable on some servers, check beforehand. Releases contain standalone .exe variants of the script for these instances.  
 
 Download Autohotkey here: https://www.autohotkey.com/  
 
