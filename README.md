@@ -14,4 +14,6 @@ Pause the script with Alt+N.
 Current versions of dragscript target ~50 CPS, but you can change the values in "rnd()" and behind "myVar," to change the range of random delay values in ms. Be careful with this as it can result in way too high CPS and get you banned that way. Also don't make them the same to keep the random aspect of it.  
 
 
-Feel free to modify the script however you want but please mention the original creator, me (pandxra).
+Feel free to modify the script however you want but please mention the original creator, me (pandxra).  
+
+Join the Discord for updates and to discuss this whole thing: https://discord.gg/tG3VPVS8Px  
