@@ -15,5 +15,3 @@ Current versions of dragscript target ~15 CPS, but you can change the values in 
 
 
 Feel free to modify the script however you want but please mention the original creator, me (pandxra).  
-
-Join the Discord for updates and to discuss this whole thing: https://discord.gg/tG3VPVS8Px  
